@@ -1,3 +1,8 @@
+> [!CAUTION]
+> webpack's brand assets have moved to the OpenJS Foundation artwork repository and are now available here: https://github.com/openjs-foundation/artwork/tree/main/projects/webpack.
+>
+> The information below may no longer be current. For the latest guidance on trademarks and logo usage, please refer to the OpenJS Foundation Trademark Policy: https://trademark-policy.openjsf.org.
+
 # media
 
 Contains artwork, designs and images related to the webpack project.
